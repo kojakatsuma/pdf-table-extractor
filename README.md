@@ -1,7 +1,7 @@
 # pdf-table-extractor
 Extractor tables from PDF
 
-Web DEMO: https://ronnywang.github.io/pdf-table-extractor/
+Web DEMO: https://kojakatsuma.github.io/pdf-table-extractor/
 
 Command line tools install
 --------------------------
